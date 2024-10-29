@@ -1,0 +1,1 @@
+para visualizar el correo solo se debe clonar el proyecto y entrar al archivo html , este correo se encuentra en un servidor publico si no se logra visualizar bien , posiblemente se vajaron algunos archivos de dicho servidor 
